@@ -1,4 +1,5 @@
 import React from "react"
+<<<<<<< HEAD
 import { Link, graphql } from "gatsby"
 import { css } from "@emotion/core"
 import { rhythm } from "../utils/typography"
@@ -70,3 +71,15 @@ export const query = graphql`
     }
   }
 `
+=======
+import { Link } from "gatsby"
+
+export default function Home() {
+  return <div style={{ color: `purple` }}>
+    <Link to="/contact">Contact</Link>
+    <h1>Hello world!</h1>
+    <p>What a World.</p>
+    <img src="https://source.unsplash.com/random/400x200" alt="" />
+  </div>
+}
+>>>>>>> 077dd00310258231a7ed8057c1d33f3110705363

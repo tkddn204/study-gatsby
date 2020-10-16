@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
@@ -23,3 +24,16 @@ export const query = graphql`
     }
   }
 `
+=======
+import React from 'react'
+import Header from '../components/header'
+
+export default function About() {
+  return (
+    <div style={{ color: `teal`}}>
+      <Header headerText="About Gatsby" />
+      <p>Such wow. Very React.</p>
+    </div>
+  )
+}
+>>>>>>> 077dd00310258231a7ed8057c1d33f3110705363

@@ -1,4 +1,3 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
@@ -8,9 +7,9 @@
   Gatsby's hello-world starter
 </h1>
 
-> Referenced tutorial site: [Link](https://www.gatsbyjs.com/tutorial/part-one/#deploying-a-gatsby-site)
+> [Referenced tutorial site Link](https://www.gatsbyjs.com/tutorial/part-one/#deploying-a-gatsby-site)
 > 
-> Website: [Link](https://rightpair-study-gatsby.surge.sh)
+> [Website Link](https://rightpair-study-gatsby.surge.sh)
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
